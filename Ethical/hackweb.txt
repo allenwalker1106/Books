@@ -1,0 +1,31 @@
+
+
+1. OverTheWire: 
+http://www.overthewire.org/wargames/
+The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games. They have lots hacking challenges which include analyze the code, simple tcp communication application, crypto cracking etc.
+
+2. We Chall: 
+http://www.wechall.net/challs/
+Similar to Over The Wire, We Chall also carries lots of challenges together with a large list of other sites with similar challenges. 
+
+3. Smash The Stack:
+http://smashthestack.org/
+The SmashtheStack Wargaming Network hosts several Wargames. The goal is to get from the first level to the last level. Along the way you should pickup or refine any techniques that were required to defeat the level. The levels for each game are structured progressively. You start at the first level. Once you have completed the first level you will have the credentials to view the password for the next level. 
+
+4. Wixxerd: 
+http://www.wixxerd.com/
+Wixxerd is a cool website with some really cool hacking challenges and games on cryptography, programming, math puzzles, enumeration, steganography, forensics and what not.
+
+5. Hellbound Hackers: 
+https://www.hellboundhackers.org/
+It offers challenges that teach you how computer based exploits work.
+
+6. Badstore: 
+http://www.badstore.net/
+Badstore.net is dedicated to help you understand how hackers prey on Web application vulnerabilities, and to show you how to reduce your exposure. The software is designed to show you common hacking techniques. 
+
+7. exploit-exercises: 
+http://exploit-exercises.com/
+exploit-exercises.com provides a variety of virtual machines, documentation and challenges that can be used to learn about a variety of computer security issues such as privilege escalation, vulnerability analysis, exploit development, debugging, reverse engineering, and general cyber security issues. 
+
+Follow Admin: www.facebook.com/vinothgeorge
